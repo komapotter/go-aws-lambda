@@ -1,0 +1,13 @@
+github.com/aws/aws-lambda-go v1.6.0 h1:T+u/g79zPKw1oJM7xYhvpq7i4Sjc0iVsXZUaqRVVSOg=
+github.com/aws/aws-lambda-go v1.6.0/go.mod h1:zUsUQhAUjYzR8AuduJPCfhBuKWUaDbQiPOG+ouzmE1A=
+github.com/aws/aws-sdk-go v1.15.50 h1:3QZIQeiRXEMTs+w+BQ2c/3Fi9/Qz9KnipT/M7YI1ub4=
+github.com/aws/aws-sdk-go v1.15.50/go.mod h1:mFuSZ37Z9YOHbQEwBWztmVzqXrEkub65tZoCYDt7FT0=
+github.com/go-ini/ini v1.25.4/go.mod h1:ByCAeIL28uOIIG0E3PJtZPDL8WnHpFKFOtgjp+3Ies8=
+github.com/go-ini/ini v1.38.3 h1:CclkQtfmOJadMVMYepq1DkVSYw2jf/0BTvjNBHth5xY=
+github.com/go-ini/ini v1.38.3/go.mod h1:ByCAeIL28uOIIG0E3PJtZPDL8WnHpFKFOtgjp+3Ies8=
+github.com/jmespath/go-jmespath v0.0.0-20160202185014-0b12d6b521d8 h1:12VvqtR6Aowv3l/EQUlocDHW2Cp4G9WJVH7uyH8QFJE=
+github.com/jmespath/go-jmespath v0.0.0-20160202185014-0b12d6b521d8/go.mod h1:Nht3zPeWKUH0NzdCt2Blrr5ys8VGpn0CEB0cQHVjt7k=
+github.com/juju/errors v0.0.0-20180806074554-22422dad46e1 h1:wnhMXidtb70kDZCeLt/EfsVtkXS5c8zLnE9y/6DIRAU=
+github.com/juju/errors v0.0.0-20180806074554-22422dad46e1/go.mod h1:W54LbzXuIE0boCoNJfwqpmkKJ1O4TCTZMetAt6jGk7Q=
+github.com/komapotter/go-awsctr v0.0.0-20181009025804-8c7e608671c2 h1:D8QVWJ2twZEvOw9BxdxINqPCzQtnn7HvRsDL7/rrET4=
+github.com/komapotter/go-awsctr v0.0.0-20181009025804-8c7e608671c2/go.mod h1:T+Rf0J6Tiq4aPv9fIC/WqOHOZQpPmzCGkkVepHaSg9A=

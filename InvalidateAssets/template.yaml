@@ -1,0 +1,21 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: >
+  InvalidateAssets
+  
+  Invalidation for media/media-admin's assets
+
+Globals:
+  Function:
+    Timeout: 5
+
+Resources:
+  InvalidateAssets:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: ./
+      Handler: handler
+      Runtime: go1.x
+      Environment:
+        Variables:
+          OBJECT_PATH: /assets/*
